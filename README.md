@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" />
   </div>
 
-  <h3 align="center">🚀 Agam Pratap Singh's Modern Developer Portfolio</h3>
+  <h3 align="center">🚀 Agam Pratap Singh's frontend Developer Portfolio</h3>
 
   <div align="center">
     Built with Next.js, Three.js, Framer Motion & TailwindCSS — This is my digital canvas showcasing projects, experience, and passion for frontend development and data analytics.
