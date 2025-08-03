@@ -1,7 +1,5 @@
 <div align="center">
-  <br />
-  <img src="https://github.com/adrianhajdin/portfolio/assets/151519281/c6ca3c03-6cb7-4f67-a9b9-a73da5bfa0d8" alt="Project Banner" />
-  <br />
+
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" />
@@ -10,7 +8,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" />
   </div>
 
-  <h3 align="center">🚀 Agam Pratap Singh's Modern Developer Portfolio</h3>
+  <h3 align="center">🚀 Agam Pratap Singh's frontend Developer Portfolio</h3>
 
   <div align="center">
     Built with Next.js, Three.js, Framer Motion & TailwindCSS — This is my digital canvas showcasing projects, experience, and passion for frontend development and data analytics.
