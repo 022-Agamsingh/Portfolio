@@ -1,9 +1,5 @@
 <div align="center">
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> 7502174ab886a53e4482205eee6f0f70364a6009
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" />
