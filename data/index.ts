@@ -114,6 +114,7 @@ export const workExperience = [
     description:
       "Developed and implemented data-driven solutions using Python, SQL, and machine learning techniques.",
     skills: ["Python", "SQL", "Machine Learning", "Data Analysis"],
+    thumbnail: "/exp1.svg",
   },
   {
     id: 2,
@@ -123,6 +124,7 @@ export const workExperience = [
     description:
       "Worked on predictive modeling and data visualization projects using Python and statistical analysis.",
     skills: ["Python", "Data Visualization", "Statistical Analysis"],
+    thumbnail: "/exp2.svg",
   },
 ];
 
