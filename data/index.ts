@@ -52,9 +52,9 @@ export const gridItems = [
     id: 5,
     title: "Currently working on web3",
     description: "The Inside Scoop",
-    className: "lg:col-span-2 md:col-span-3 md:row-span-2",
+    className: "lg:col-span-3 md:col-span-3 md:row-span-2",
     imgClassName: "w-full h-full object-cover",
-    titleClassName: "justify-center",
+    titleClassName: "justify-center ",
     img: "/b5.svg",
     spareImg: "/grid.svg",
   },
@@ -77,7 +77,7 @@ export const projects = [
     des: "Map Marvel is a web app that helps college students explore and stay updated with campus events. It features an interactive map showing event locations, details, timings, and coordinator info — making event discovery easy and engaging.",
     img: "/p1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/https://mapmarvel.vercel.app/",
+    link: "https://mapmarvel.vercel.app/",
   },
   {
     id: 2,
@@ -85,7 +85,7 @@ export const projects = [
     des: "Test your memory and reflexes with the classic Simon Game. Follow the light sequence and repeat it back to win.",
     img: "/p2.jpeg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/https://simon-game-challenge-completed.vercel.app/",
+    link: "https://simon-game-challenge-completed.vercel.app/",
   },
   {
     id: 3,
@@ -93,7 +93,7 @@ export const projects = [
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.png",
     iconLists: ["/sql.svg", "/tableau.svg", "/mysql.svg"],
-    link: "/https://github.com/022-Agamsingh/sale_insights",
+    link: "https://github.com/022-Agamsingh/sale_insights",
   },
   {
     id: 4,
@@ -101,7 +101,7 @@ export const projects = [
     des: "Taxi Fare Analysis is a data-driven project that uses hypothesis testing to explore the relationship between payment methods and total fare amounts. It helps identify whether paying by cash or credit card impacts driver revenue, offering insights to boost earnings without affecting customer experience",
     img: "/taxi driver.png",
     iconLists: ["/sql.svg", "/python.svg"],
-    link: "/https://colab.research.google.com/drive/1oeeHzTiwsJfBLcY0mKCTc7PIE-LaSghd?usp=sharing",
+    link: "https://colab.research.google.com/drive/1oeeHzTiwsJfBLcY0mKCTc7PIE-LaSghd?usp=sharing",
   },
 ];
 

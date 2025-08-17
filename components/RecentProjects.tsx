@@ -9,7 +9,7 @@ const RecentProjects = () => {
   return (
     <div className="py-20" id="projects">
       <h1 className="heading">
-        A small selection of{" "}
+        A small selection of{" "} 
         <span className="text-purple">recent projects</span>
       </h1>
       <div className="flex flex-wrap items-center justify-center p-4 gap-16 mt-10">
@@ -19,8 +19,8 @@ const RecentProjects = () => {
             key={item.id}
           >
             <PinContainer
-              title="/ui.aceternity.com"
-              href="https://twitter.com/mannupaaji"
+              title="Click to View"
+              href={item.link}
             >
               <div className="relative flex items-center justify-center sm:w-96 w-[80vw] overflow-hidden h-[20vh] lg:h-[30vh] mb-10">
                 <img
