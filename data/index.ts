@@ -89,6 +89,20 @@ export const projects = [
   },
   {
     id: 3,
+    title: "School Management System",
+    des: " A full-stack SaaS web app built with React.js, Node.js, Express.js, and MongoDB Atlas. It features secure authentication with JWT & bcrypt, school management with geolocation & distance calculation, and profile dashboards. The platform is responsive, scalable, and deployed on Vercel with serverless functions for modern performance.",
+    img: "/p4.png",
+    iconLists: [
+      "/re.svg",
+      "/nodejs.svg",
+      "/express.svg",
+      "/db.svg",
+      "/vercel.svg",
+    ],
+    link: "https://school-management-system-orpin.vercel.app/",
+  },
+  {
+    id: 4,
     title: "Sales Insights Dashboard",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.png",
@@ -96,7 +110,7 @@ export const projects = [
     link: "https://github.com/022-Agamsingh/sale_insights",
   },
   {
-    id: 4,
+    id: 5,
     title: "Maximizing Revenue for Taxi Services",
     des: "Taxi Fare Analysis is a data-driven project that uses hypothesis testing to explore the relationship between payment methods and total fare amounts. It helps identify whether paying by cash or credit card impacts driver revenue, offering insights to boost earnings without affecting customer experience",
     img: "/taxi driver.png",
@@ -105,28 +119,28 @@ export const projects = [
   },
 ];
 
-export const workExperience = [
-  {
-    id: 1,
-    title: "Data Scientist Intern",
-    company: "Hero VIred",
-    date: "June 2023 - July 2023",
-    description:
-      "Developed and implemented data-driven solutions using Python, SQL, and machine learning techniques.",
-    skills: ["Python", "SQL", "Machine Learning", "Data Analysis"],
-    thumbnail: "/exp1.svg",
-  },
-  {
-    id: 2,
-    title: "Data Science Intern",
-    company: "The Sparks Foundation",
-    date: "March 2023 - April 2023",
-    description:
-      "Worked on predictive modeling and data visualization projects using Python and statistical analysis.",
-    skills: ["Python", "Data Visualization", "Statistical Analysis"],
-    thumbnail: "/exp2.svg",
-  },
-];
+// export const workExperience = [
+//   {
+//     id: 1,
+//     title: "Data Scientist Intern",
+//     company: "Hero VIred",
+//     date: "June 2023 - July 2023",
+//     description:
+//       "Developed and implemented data-driven solutions using Python, SQL, and machine learning techniques.",
+//     skills: ["Python", "SQL", "Machine Learning", "Data Analysis"],
+//     thumbnail: "/exp1.svg",
+//   },
+//   {
+//     id: 2,
+//     title: "Data Science Intern",
+//     company: "The Sparks Foundation",
+//     date: "March 2023 - April 2023",
+//     description:
+//       "Worked on predictive modeling and data visualization projects using Python and statistical analysis.",
+//     skills: ["Python", "Data Visualization", "Statistical Analysis"],
+//     thumbnail: "/exp2.svg",
+//   },
+// ];
 
 export const socialMedia = [
   {
