@@ -119,28 +119,28 @@ export const projects = [
   },
 ];
 
-// export const workExperience = [
-//   {
-//     id: 1,
-//     title: "Data Scientist Intern",
-//     company: "Hero VIred",
-//     date: "June 2023 - July 2023",
-//     description:
-//       "Developed and implemented data-driven solutions using Python, SQL, and machine learning techniques.",
-//     skills: ["Python", "SQL", "Machine Learning", "Data Analysis"],
-//     thumbnail: "/exp1.svg",
-//   },
-//   {
-//     id: 2,
-//     title: "Data Science Intern",
-//     company: "The Sparks Foundation",
-//     date: "March 2023 - April 2023",
-//     description:
-//       "Worked on predictive modeling and data visualization projects using Python and statistical analysis.",
-//     skills: ["Python", "Data Visualization", "Statistical Analysis"],
-//     thumbnail: "/exp2.svg",
-//   },
-// ];
+export const workExperience = [
+  {
+    id: 1,
+    title: "Data Scientist Intern",
+    company: "Hero VIred",
+    date: "June 2023 - July 2023",
+    description:
+      "Developed and implemented data-driven solutions using Python, SQL, and machine learning techniques.",
+    skills: ["Python", "SQL", "Machine Learning", "Data Analysis"],
+    thumbnail: "/exp1.svg",
+  },
+  {
+    id: 2,
+    title: "Data Science Intern",
+    company: "The Sparks Foundation",
+    date: "March 2023 - April 2023",
+    description:
+      "Worked on predictive modeling and data visualization projects using Python and statistical analysis.",
+    skills: ["Python", "Data Visualization", "Statistical Analysis"],
+    thumbnail: "/exp2.svg",
+  },
+];
 
 export const socialMedia = [
   {
