@@ -81,17 +81,17 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Simon Game",
-    des: "Test your memory and reflexes with the classic Simon Game. Follow the light sequence and repeat it back to win.",
-    img: "/p2.jpeg",
+    title: " Moov – Movie Directory Platform",
+    des: "Moov is a Netflix-inspired movie discovery and directory web application built using Next.js App Router, TypeScript, Tailwind CSS, and The Movie Database (TMDB) API.",
+    img: "/moov.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://simon-game-challenge-completed.vercel.app/",
+    link: "https://movies-wheat-rho.vercel.app/",
   },
   {
     id: 3,
-    title: "School Management System",
-    des: " A full-stack SaaS web app built with React.js, Node.js, Express.js, and MongoDB Atlas. It features secure authentication with JWT & bcrypt, school management with geolocation & distance calculation, and profile dashboards. The platform is responsive, scalable, and deployed on Vercel with serverless functions for modern performance.",
-    img: "/p4.png",
+    title: "OPD-token System",
+    des: "Designed and implemented the backend for an OPD Token Allocation System that manages doctor time slots with elastic capacity. Built APIs for token generation, queue prioritization, rescheduling, and emergency overrides. Focused on consistency, performance, and real-time adaptability to changing hospital conditions.",
+    img: "/opd.png",
     iconLists: [
       "/re.svg",
       "/nodejs.svg",
@@ -99,7 +99,7 @@ export const projects = [
       "/db.svg",
       "/vercel.svg",
     ],
-    link: "https://school-management-system-orpin.vercel.app/",
+    link: "https://github.com/022-Agamsingh/opd-token-system",
   },
   {
     id: 4,
@@ -116,6 +116,28 @@ export const projects = [
     img: "/taxi driver.png",
     iconLists: ["/sql.svg", "/python.svg"],
     link: "https://colab.research.google.com/drive/1oeeHzTiwsJfBLcY0mKCTc7PIE-LaSghd?usp=sharing",
+  },
+  {
+    id: 6,
+    title: "Simon Game",
+    des: "Test your memory and reflexes with the classic Simon Game. Follow the light sequence and repeat it back to win.",
+    img: "/p2.jpeg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://simon-game-challenge-completed.vercel.app/",
+  },
+  {
+    id: 7,
+    title: "School Management System",
+    des: " A full-stack SaaS web app built with React.js, Node.js, Express.js, and MongoDB Atlas. It features secure authentication with JWT & bcrypt, school management with geolocation & distance calculation, and profile dashboards. The platform is responsive, scalable, and deployed on Vercel with serverless functions for modern performance.",
+    img: "/p4.png",
+    iconLists: [
+      "/re.svg",
+      "/nodejs.svg",
+      "/express.svg",
+      "/db.svg",
+      "/vercel.svg",
+    ],
+    link: "https://school-management-system-orpin.vercel.app/",
   },
 ];
 
